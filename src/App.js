@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 import Home from "./Components/Home";
 import About from "./Components/About";
 import Vans from "./Components/Vans";
-import VanDetail from "./VanDetail";
+import VanDetail from "./Components/VanDetail";
 
 import "./server";
 function App() {
